@@ -52,7 +52,7 @@ You'll learn the following topics in the given Notebook with practical implement
 
 ### Who am I?
 
-My name is Ashish Jangra, I make videos about coding and tech. I am an AI trainer at Teenage Coder and Elite Techno Groups. I've made India's first Self Driving Cars course with my ETG. I've trained more than 10000 students on different technologies like AI, Data Science, Computer Vision, and Internet of Things. I'm passionate about teaching and giving students the skillset to learn cutting-edge skills.
+My name is Ashish Jangra, I make videos about coding and tech. I'm working as a Data Science Mentor at GeeksForGeeks. I am also working as AI trainer at Teenage Coder and Elite Techno Groups. I've made India's first Self Driving Cars course with ETG. I've trained more than 20000 students on different technologies like AI, Data Science, Computer Vision, and Internet of Things. I'm passionate about teaching and giving students the skillset to learn cutting-edge skills.
 
 -----
 
